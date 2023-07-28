@@ -1,0 +1,1 @@
+import{_ as o,r,o as a,c,a as e,b as n,d as s}from"./app-a71d02ab.js";const _={},l={href:"https://t.me/itrx1",target:"_blank",rel:"noopener noreferrer"};function d(i,f){const t=r("ExternalLinkIcon");return a(),c("div",null,[e("p",null,[n("因为自己不用，也不知道接口够不够，不够请联系"),e("a",l,[n("ITRX"),s(t)])])])}const p=o(_,[["render",d],["__file","index.html.vue"]]);export{p as default};

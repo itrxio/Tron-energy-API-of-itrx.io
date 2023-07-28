@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10ca7972","path":"/general/error-code.html","title":"API返回值","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"返回400","slug":"返回400","link":"#返回400","children":[]},{"level":2,"title":"返回200","slug":"返回200","link":"#返回200","children":[]}],"git":{"updatedTime":1686872295000},"filePathRelative":"general/error-code.md"}');export{e as data};

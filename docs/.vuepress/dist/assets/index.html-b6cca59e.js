@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4290fe40","path":"/general/","title":"说明","lang":"zh-CN","frontmatter":{"title":"说明"},"headers":[{"level":2,"title":"域名","slug":"域名","link":"#域名","children":[]},{"level":2,"title":"数据格式","slug":"数据格式","link":"#数据格式","children":[]}],"git":{"updatedTime":1686872295000},"filePathRelative":"general/README.md"}');export{e as data};
